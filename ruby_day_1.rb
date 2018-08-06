@@ -8,4 +8,4 @@
 # "I love Koding!"
 
 puts "Hello World".downcase.length 
-puts "Hello World.length.downcase""
+puts "Hello World.length
