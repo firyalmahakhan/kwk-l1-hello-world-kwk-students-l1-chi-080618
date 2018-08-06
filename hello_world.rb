@@ -1,1 +1,2 @@
-puts "Hello World!"
+puts "Yay Ruby!"
+puts "I love Koding!"
